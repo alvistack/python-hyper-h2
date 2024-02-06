@@ -1,0 +1,5 @@
+python-h2 source: file-without-copyright-information
+python-h2 source: no-debian-changes
+python-h2 source: source-contains-prebuilt-windows-binary
+python-h2 source: source-is-missing
+python-h2 source: source-package-encodes-python-version
