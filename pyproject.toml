@@ -10,8 +10,7 @@ name = "h2"
 description = "Pure-Python HTTP/2 protocol implementation"
 readme = { file = "README.rst", content-type = "text/x-rst" }
 
-license = "MIT"
-license-files = [ "LICENSE" ]
+license = { text = "MIT" }
 
 authors = [
   { name = "Cory Benfield", email = "cory@lukasa.co.uk" }
